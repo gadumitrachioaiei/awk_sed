@@ -28,3 +28,6 @@ A sed equivalent:
         s/ \+/,/g
 }
 
+Very good tutorials here:
+https://www.ibm.com/developerworks/linux/library/l-awk1/index.html
+http://ibm.com/developerworks/linux/library/l-sed1/index.html
